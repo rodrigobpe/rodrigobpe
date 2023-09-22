@@ -1,4 +1,10 @@
 ### Hi there 👋
+<div align='center'>
+  <div id='badges'>
+    <a href='https://www.linkedin.com/in/marcus-costa-graciano/'>
+      <img width='120em' src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt='LinkedIn profile'>
+    </a>
+  </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigobpe&show_icons=true&theme=radical" />
 </a>

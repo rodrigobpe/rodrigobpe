@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá a todos 👋
 ##
 - Atualmente estou estudando no [Instituto Federal Catarinense](https://araquari.ifc.edu.br/)
 - Fazendo BSI (Bacharelado em Sistema de Informação)

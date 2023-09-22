@@ -1,4 +1,9 @@
 ### Hi there 👋
+##
+- Atualmente estou estudando no [Instituto Federal Catarinense](https://araquari.ifc.edu.br/)
+- Fazendo BSI (Bacharelado em Sistema de Informação)
+- Constantemente indo em busca de novos desafios!📖
+  
 <div align='center'>
   <img width='79%' src='https://github-readme-streak-stats.herokuapp.com?user=rodrigobpe&theme=dark&hide_border=true&mode=weekly' />
   <img height='200em' src='https://github-readme-stats.vercel.app/api?username=rodrigobpe&show_icons=true&theme=dark&hide_border=true' alt='GitHub Stats'>

@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align='center'>
-  <img width='75%' src='https://github-readme-streak-stats.herokuapp.com?user=rodrigobpe&theme=radicak&hide_border=true&mode=weekly' />
+  <img width='75%' src='https://github-readme-streak-stats.herokuapp.com?user=rodrigobpe&theme=transparent&hide_border=true&mode=weekly' />
   <img height='200em' src='https://github-readme-stats.vercel.app/api?username=rodrigobpe&show_icons=true&theme=radical&hide_border=true' alt='GitHub Stats'>
   <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscostagraciano&layout=compact&langs_count=7&theme=radical&hide_border=true' alt='Most Used Languages'>
 </div>

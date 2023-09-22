@@ -5,7 +5,7 @@
 - Constantemente indo em busca de novos desafios!📖
   
 <div align='center'>
-  <img width='100%' src='https://github-readme-streak-stats.herokuapp.com?user=rodrigobpe&theme=dark&hide_border=true&mode=weekly' />
+  <img width='95%' src='https://github-readme-streak-stats.herokuapp.com?user=rodrigobpe&theme=dark&hide_border=true&mode=weekly' />
   <img height='200em' src='https://github-readme-stats.vercel.app/api?username=rodrigobpe&show_icons=true&theme=dark&hide_border=true' alt='GitHub Stats'>
   <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobpe&layout=compact&langs_count=7&theme=dark&hide_border=true' alt='Most Used Languages'>
 </div>

@@ -1,16 +1,9 @@
 ### Hi there 👋
 <div align='center'>
-  <div id='badges'>
-    <a href='https://www.linkedin.com/in/marcus-costa-graciano/'>
-      <img width='120em' src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt='LinkedIn profile'>
-    </a>
-  </div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigobpe&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigobpe&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+  <img width='75%' src='https://github-readme-streak-stats.herokuapp.com?user=rodrigobpe&theme=radicak&hide_border=true&mode=weekly' />
+  <img height='200em' src='https://github-readme-stats.vercel.app/api?username=rodrigobpe&show_icons=true&theme=radical&hide_border=true' alt='GitHub Stats'>
+  <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscostagraciano&layout=compact&langs_count=7&theme=transparent&hide_border=true' alt='Most Used Languages'>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rodrigo-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
